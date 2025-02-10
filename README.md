@@ -27,3 +27,7 @@ cwurData.scv
 ## Tools
 The data was analysed using Python and the following libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 Tableau Public (for visualization)
+
+## Tableau Storyboard 
+https://public.tableau.com/app/profile/sofiya.k4319/viz/WorldUniversityRankings_17391987961900/Story1
+
